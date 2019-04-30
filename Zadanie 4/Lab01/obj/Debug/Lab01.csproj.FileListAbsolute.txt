@@ -1,0 +1,68 @@
+C:\Users\Bruce\Desktop\dotnet\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Bruce\Desktop\dotnet\Lab01\bin\Debug\Lab01.exe
+C:\Users\Bruce\Desktop\dotnet\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\App.g.cs
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.exe
+C:\Users\Bruce\Desktop\dotnet\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\bin\Debug\Lab01.exe
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\App.g.cs
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.exe
+C:\Users\Bruce\Desktop\Nowy folder\Nowy folder (2)\dotnet\Laby1\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\bin\Debug\Lab01.exe
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\App.g.cs
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.exe
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.pdb
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruce\Desktop\swiezymaster\DotNet-i-Java-master\Zadanie2\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\bin\Debug\Lab01.exe
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\App.g.cs
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01_MarkupCompile.cache
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01_MarkupCompile.lref
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\MainWindow.baml
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.g.resources
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.exe
+C:\Users\Bruce\Documents\GitHub\DotNet-i-Java\Zadanie 3\Lab01\obj\Debug\Lab01.pdb
