@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NasaBaseSet" EntityType="Model1.NasaBase" />
+  </EntityContainer>
+  <EntityType Name="NasaBase">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="Date" Type="String" Nullable="false" />
+    <Property Name="CloudScore" Nullable="false" Type="String" />
+    <Property Name="Longitude" Type="String" Nullable="false" />
+    <Property Name="Latitude" Type="String" Nullable="false" />
+    <Property Name="Image" Type="String" Nullable="false" />
+    <Property Name="ID" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>
