@@ -227,5 +227,10 @@ namespace Lab01
 
         }
 
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            container.NasaBaseSet.Load();
+            myViewSource.Source = container.NasaBaseSet.Local;
+        }
     }
 }

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab01"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="1200">
+        Title="MainWindow" Height="600" Width="1200" Loaded="Window_Loaded">
     <Window.Resources>
         <CollectionViewSource x:Key="nasaViewSource" d:DesignSource="{d:DesignInstance {x:Type local:NasaBase}, CreateList=True}"/>
         <RoutedUICommand x:Key="AddCommand"/>
