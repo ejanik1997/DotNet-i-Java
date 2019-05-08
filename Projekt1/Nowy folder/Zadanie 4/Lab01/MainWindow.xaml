@@ -44,7 +44,7 @@
         </StackPanel>
         <Image x:Name="image" Grid.Column="1" HorizontalAlignment="Left" Height="225" Margin="152.2,25,0,0" VerticalAlignment="Top" Width="225" RenderTransformOrigin="0.483,0.495"/>
         <TextBlock HorizontalAlignment="Left" Margin="20,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="442"><Run Text="Date              "/><Run Text="        "/><Run Text="   "/><Run Text=" "/><Run Text="CloudScore"/><Run Text="      "/><Run Text=" "/><Run Text="  Longitude      "/><Run Text=" "/><Run Text="    Latitude           SkyImage"/></TextBlock>
-        <DataGrid Grid.Column="1" HorizontalAlignment="Left" Height="514" Margin="404.8,35,-343.6,0" VerticalAlignment="Top" Width="334"  ItemsSource="{Binding}" >
+        <DataGrid Grid.Column="1" HorizontalAlignment="Left" Height="514" Margin="404.8,35,-343.6,0" VerticalAlignment="Top" Width="334"  ItemsSource="{Binding}" DataContext="{StaticResource nasaViewSource}" >
         <DataGrid.Columns>
             <DataGridTextColumn x:Name="dateColumn" Binding="{Binding Date}" Header="Date" Width="SizeToHeader"/>
             <DataGridTextColumn x:Name="CSColumn" Binding="{Binding CloudScore}" Header="CloudScore" Width="SizeToHeader"/>
